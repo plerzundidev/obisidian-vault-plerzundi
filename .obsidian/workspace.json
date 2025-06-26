@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "76af14f9a952164c",
+    "type": "split",
+    "children": [
+      {
+        "id": "20ed5a7f79388db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9deb66a161557ccc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b11ee7ad8f4c11ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "446e0da40ce13d2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "150e24d74c29b21e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "738ec5c0e5785b83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "7812446a1bdbedb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74f613eb63b39342",
+    "type": "split",
+    "children": [
+      {
+        "id": "947acf1f7094fb45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e25e4602727d54c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git-conocimiento-vault/Sin título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Sin título"
+            }
+          },
+          {
+            "id": "6ee211b1d7bd8e10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git-conocimiento-vault/Sin título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Sin título"
+            }
+          },
+          {
+            "id": "2b9efcef301471de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "259e0e35dc31463c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git-conocimiento-vault/Sin título.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Sin título"
+            }
+          },
+          {
+            "id": "d9bc8e54e40c5fed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9deb66a161557ccc",
+  "lastOpenFiles": [
+    "plerzund-conocimiento/🗃️ SQL/💻SQL Cheatsheet Detallado para Data Engineers.md",
+    "git-conocimiento-vault/Sin título.md",
+    "git-conocimiento-vault",
+    "Sin nombre",
+    "🧠 MachineLearning/📈 regresion_lineal/🚖 Regresión Lineal Simple, Ejemplo Práctico con Viajes en Taxi.md",
+    "🧠 MachineLearning/📈 regresion_lineal/📚 Regresión Lineal Simple Guía Completa.md",
+    "🧠 MachineLearning/📈 regresion_lineal/📚  Regresión Lineal, Función de Coste y Convergencia.md",
+    "🧠 MachineLearning/📈 regresion_lineal/📌Regresión Lineal Simple Consideraciones.md",
+    "🧠 MachineLearning/🔑🧩conceptos_claves/🧠 Diferencia entre Online Learning y Batch Learning.md",
+    "🧠 MachineLearning/🔑🧩conceptos_claves/🧠  MindMap Variables Estadistica y ML.md",
+    "🧠 MachineLearning/🔑🧩conceptos_claves/📚  Normalización vs Estandarización en Machine Learning.md",
+    "🧠 MachineLearning/🔑🧩conceptos_claves/🧠   MindMap Modelos en ML y Deep Learning.md",
+    "🧠 MachineLearning/🔑🧩conceptos_claves/📘 Inferencias en Machine Learning Explicación Detallada.md",
+    "🧠 MachineLearning/🔑🧩conceptos_claves/📘  Guía de Casos de Uso Supervisado vs. No Supervisado, Regresión vs Clasificación.md",
+    "🧠 MachineLearning/🔑🧩conceptos_claves/🎭 Diferencia entre Instance-Based Learning y Model-Based Learning.md",
+    "🧠 MachineLearning/📈 regresion_lineal",
+    "🧠 MachineLearning/🔑🧩conceptos_claves",
+    "🧠 MachineLearning",
+    "🗃️ SQL/👾 HackerRank/imagen/1458558612-af3da3ceb7-ScreenShot2016-03-21at4.32.59PM.png",
+    "🗃️ SQL/👾 HackerRank/imagen/1458557872-4396838885-ScreenShot2016-03-21at4.27.13PM.png",
+    "🗃️ SQL/👾 HackerRank/imagen/1449345840-5f0a551030-Station 2.jpg",
+    "🗃️ SQL/👾 HackerRank/imagen/1449345840-5f0a551030-Station.jpg",
+    "🗃️ SQL/👾 HackerRank/imagen/1449345840-5f0a551030-Station 1.jpg",
+    "🗃️ SQL/👾 HackerRank/imagen/1443815827-cbfc1ca12b-2.png",
+    "🗃️ SQL/👾 HackerRank/imagen/1443815629-ac2a843fb7-1.png",
+    "🗃️ SQL/👾 HackerRank/imagen/1443815243-94b941f556-1.png",
+    "🗃️ SQL/👾 HackerRank/imagen/1443815209-cf4b260993-2.png",
+    "🗃️ SQL/👾 HackerRank/imagen",
+    "🗃️ SQL/👾 HackerRank/Ejercicios SQL Hacker Rank.md",
+    "🗃️ SQL/🕵️‍♀️ Mantenimiento de Índices  SQL y Otros Motores de Bases de Datos.md",
+    "🗃️ SQL/💻SQL Cheatsheet Detallado para Data Engineers.md",
+    "🗃️ SQL/👾 HackerRank",
+    "🗃️ SQL",
+    "🕵️‍♂️​ DataEngineer/☁️ GCP/images/_1cLHpUGslpbHEz2e0T5h3H3zNcsweIwbY_xrCpbrjQ=.png",
+    "🕵️‍♂️​ DataEngineer/interviews/Preguntas y Respuestas - Entrevista Ingeniero de Datos.md",
+    "🕵️‍♂️​ DataEngineer/☁️ GCP/images",
+    "🕵️‍♂️​ DataEngineer/☁️ GCP/Datastream Replicación de PostgreSQL en BigQuery (Intro).md",
+    "🕵️‍♂️​ DataEngineer/interviews",
+    "📚 handbook_fraude/Detección de fraude guiado con ML.md",
+    "Otras Utilidades/markdown-cheat-sheet.md"
+  ]
+}
